@@ -2,6 +2,10 @@
 
 Simple Soteria Network RPC library, designed to work with all versions of Soteria.
 
+#### INSTALL:
+
+pip install soteriarpc
+
 
 ## Setting Up soteriad (Linux)
 
